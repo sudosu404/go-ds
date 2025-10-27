@@ -4,7 +4,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/sudosu404/tailnet-utils/strutils"
+	"github.com/sudosu404/go-utils/strutils"
 )
 
 type Key struct {

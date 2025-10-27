@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	. "github.com/sudosu404/go-ds//ordered"
+	. "github.com/sudosu404/go-ds/ordered"
 )
 
 type mapValue struct {

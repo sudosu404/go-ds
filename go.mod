@@ -6,7 +6,7 @@ require (
 	github.com/puzpuzpuz/xsync/v4 v4.2.0
 	github.com/stretchr/testify v1.11.1
 	github.com/sudosu404/tailnet-providers/internal/utils v0.0.0-20250927032450-e2aeef3a863f
-	github.com/sudosu404/tailnet-utils/ v0.1.0
+	github.com/sudosu404/go-utils/ v0.1.0
 )
 
 require (

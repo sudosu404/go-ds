@@ -8,8 +8,8 @@ github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
 github.com/sudosu404/tailnet-providers/internal/utils v0.0.0-20250927032450-e2aeef3a863f h1:bz9ckGmZ+xkp2tdQ3/9p6iBZokBTzIEm/41dzcsj0/E=
 github.com/sudosu404/tailnet-providers/internal/utils v0.0.0-20250927032450-e2aeef3a863f/go.mod h1:3WnzaKMKs9Pg5g7n4p7V8yKAGPZEYNzBYm9B8c48FiA=
-github.com/sudosu404/tailnet-utils/ v0.1.0 h1:ZfCZ2yFOGQ8+467Bx+v2NhvlkaviS2ux4ER2nnbQE7w=
-github.com/sudosu404/tailnet-utils/ v0.1.0/go.mod h1:Cj8AsH4ut4+zE2vo9EuP+vZXec031GgbGP77XGXoBBM=
+github.com/sudosu404/go-utils/ v0.1.0 h1:ZfCZ2yFOGQ8+467Bx+v2NhvlkaviS2ux4ER2nnbQE7w=
+github.com/sudosu404/go-utils/ v0.1.0/go.mod h1:Cj8AsH4ut4+zE2vo9EuP+vZXec031GgbGP77XGXoBBM=
 golang.org/x/text v0.29.0 h1:1neNs90w9YzJ9BocxfsQNHKuAT4pkghyXc4nhZ6sJvk=
 golang.org/x/text v0.29.0/go.mod h1:7MhJOA9CD2qZyOKYazxdYMF85OwPdEr9jTtBpO7ydH4=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=

@@ -1,4 +1,4 @@
-module github.com/sudosu404/go-ds//ordered/yaml
+module github.com/sudosu404/go-ds/ordered/yaml
 
 go 1.25.0
 

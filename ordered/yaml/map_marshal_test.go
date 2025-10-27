@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	baseom "github.com/sudosu404/go-ds//ordered"
+	baseom "github.com/sudosu404/go-ds/ordered"
 )
 
 func TestMarshalYAML_KeyTypeNotString(t *testing.T) {

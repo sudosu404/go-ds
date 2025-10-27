@@ -10,7 +10,7 @@ func TestMarshalUnmarshalJSON(t *testing.T) {
 	data := map[string]any{
 		"foo.bar":      42.12,
 		"foo.baz":      "hello",
-		"qwe.rt.yu.io": 123.45,
+		"qwe.rt.yu.gnx": 123.45,
 	}
 	for k, v := range data {
 		trie.Store(NewKey(k), v)

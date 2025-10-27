@@ -7,7 +7,7 @@ import (
 	"unsafe"
 
 	"github.com/goccy/go-yaml"
-	"github.com/sudosu404/go-ds//ordered"
+	"github.com/sudosu404/go-ds/ordered"
 )
 
 type Map[K comparable, V any] struct {
